@@ -1,3 +1,3 @@
-$('#myToast').on('hidden.bs.toast', function () {
-  // do something...
-})
+$(document).ready(function(){
+  $('.toast').toast('show');
+});
