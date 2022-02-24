@@ -22,3 +22,7 @@ li {
 #quienessomos p {
   line-height: 1.55em; // ajuste interlineado
 }
+
+.tooltip .tooltip-inner {
+  background-color: #e85d47; // ajuste color tooltip
+}
