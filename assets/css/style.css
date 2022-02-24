@@ -1,0 +1,20 @@
+body {
+  background-color: #000; // color general background
+  font-family: 'Varela Round', sans-serif; // fuente tipográfica
+}
+
+.navbar-brand img {
+  max-height: 40px; // ajuste en altura máxima de imagen en barra de navegación
+}
+
+.card-img-top {
+  max-height: 165px; // ajuste en altura máxima de imagen en tarjetas
+}
+
+li {
+  list-style: none; // elimina viñeta de las listas
+}
+
+.card-text {
+  font-size: 15.5px; // ajuste en tamaño de texto en tarjetas
+}
