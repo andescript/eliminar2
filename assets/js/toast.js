@@ -1,0 +1,3 @@
+$('#myToast').on('hidden.bs.toast', function () {
+  // do something...
+})
